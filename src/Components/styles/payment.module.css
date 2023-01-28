@@ -1,0 +1,31 @@
+.payment__div{
+    background-color: aqua;
+    height: 70vh;
+   
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: .8rem;
+}
+h1{
+    text-align: center;
+    margin-top: 4rem;
+}
+.input{
+    margin: auto;
+    border-radius: .5rem;
+    padding: .7rem;
+}
+
+.input_btn{
+    width: 12rem;
+    color: rgb(202, 233, 223);
+    background-color: rgb(1, 5, 0);
+    border-radius: .5rem;
+    cursor: pointer;
+    padding: .7rem;
+}
